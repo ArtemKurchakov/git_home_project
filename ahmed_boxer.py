@@ -5,7 +5,7 @@ class Boxer():
         self.weight = weight
         self.height = height
 
-artem = Boxer(28, 70, 180)
+ahmed = Boxer(28, 70, 180)
 
 
 print(ahmed.age, ahmed.weight, ahmed.height)
